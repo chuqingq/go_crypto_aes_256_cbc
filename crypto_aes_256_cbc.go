@@ -1,4 +1,4 @@
-package productinfo
+package main
 
 import (
 	"bytes"
